@@ -1,1 +1,0 @@
-Open index.html to preview. Replace LinkedIn/GitHub/email and project links before publishing.
